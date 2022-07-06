@@ -73,14 +73,12 @@ footer li {
 }
 
 .main {
-    background-image: url(/images/google-watching.jpg);
+    background-image: url(/images/google-watching-removebg.png);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 10px;
     width: 60vh;
     height: 195px;
-    box-shadow: -.3px -.3px 40px 20px rgba(0, 0, 0, 0.878);
-    /* box-shadow: -.3px -.3px 50px 10px rgba(0, 0, 255, .2); */
     margin-bottom: 40px;
 }
 
